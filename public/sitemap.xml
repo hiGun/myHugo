@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.example.com/de/projects/photography/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/es/projects/photography/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/projects/photography/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/de/projects/design/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/projects/design/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/es/projects/design/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/es/projects/writing/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/de/projects/writing/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/projects/writing/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/de/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/es/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/blog/</loc>
+    <lastmod>2020-07-25T02:04:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/de/blog/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/es/blog/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/code/</loc>
+    <lastmod>2020-07-25T02:04:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/</loc>
+    <lastmod>2020-07-25T02:04:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/</loc>
+    <lastmod>2020-07-25T02:04:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/blog/configuration/</loc>
+    <lastmod>2020-07-25T02:04:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/blog/long-form-post/</loc>
+    <lastmod>2020-05-30T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/blog/</loc>
+    <lastmod>2020-05-30T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/de/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/es/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/blog/hipster-ipsum/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/de/blog/hipster-ipsum/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/es/blog/hipser-ipsum/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/ipsum/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/words/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/blog/startup-ipsum/</loc>
+    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/de/blog/startup-ipsum/</loc>
+    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/es/blog/startup-ipsum/</loc>
+    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/blog/coffee-ipsum/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/coffee/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/es/blog/coffee-ipsum/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/images/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/de/blog/coffee-ipsum/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/blog/no-date/</loc>
+  </url>
+  
+</urlset>
